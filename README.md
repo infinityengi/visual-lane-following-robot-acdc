@@ -49,13 +49,6 @@ This repository contains a software platform for running a *Scaled Automated and
 
 The following parts of this README specifically target [*ACDC RP Task 7: Lane Following for Scaled Automated Vehicles*](https://git.rwth-aachen.de/ika/acdc-research-project-ss25/acdc-research-project-ss25/-/blob/main/topics/07-Lane-Following-for-Scaled-Automated-Vehicles/task.ipynb).
 
-- [ika Racer](#ika-racer)
-  - [Specifications](#specifications)
-  - [Start-up](#start-up)
-  - [Charging](#charging)
-  - [Initial Setup](#initial-setup)
-  - [Software Launch](#software-launch)
-
 ## ika Racer
 
 The *ika Racer* as shown below is a modified RC-car mounted with a set of sensors, an embedded computer development kit to process sensor data, and a networking module to exchange data with other connected devices. The vehicle is based on the NVIDIA-backed open-source *JetRacer* platform, including an *NVIDIA Jetson Nano* embedded computing unit.
